@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "try",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "concept::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-concept-Debug-3b03f0f6b3195b147fd3.json",
+					"name" : "concept",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coroutine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coroutine-Debug-b7854a39b03b20f51f56.json",
+					"name" : "coroutine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fold::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fold-Debug-7fa4ba091534e0aa73a2.json",
+					"name" : "fold",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module-Debug-22003d0f2d0743b38c07.json",
+					"name" : "module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "null::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-null-Debug-42af70b28302785a140f.json",
+					"name" : "null",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "range::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-range-Debug-26c744437342b2d5abb4.json",
+					"name" : "range",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try-Debug-3b6ab0e4c13b1eb12e2d.json",
+					"name" : "try",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tzq0301/Code/C++/try/cmake-build-debug",
+		"source" : "/Users/tzq0301/Code/C++/try"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
